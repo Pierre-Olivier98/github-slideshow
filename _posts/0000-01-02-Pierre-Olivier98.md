@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Suicide is badass" -Danny DeVito
 Use the left arrow to go back!
